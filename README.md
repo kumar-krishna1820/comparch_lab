@@ -45,5 +45,3 @@ The testbench provides:
 1. Compile all Verilog modules including `SCDataPath.v` and `TestBench.v`.
 2. Run the simulation.
 3. Observe ALU output and PC updates for R-format instructions in the waveform or simulation log.
-
-### Example Simulation Output
